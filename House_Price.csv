@@ -1,0 +1,12 @@
+ID,category,Kitchen,bathrooms,bedrooms,pets_allowed,square_feet(m squared),Price(in Rs),Date allowed to settle,located area
+,,,,,,,,,
+1,3,NaN,2,2,yes,2400,"1,000,000","July 1 , 2023",Kandy
+2,2,NaN,2,1,no,2750,"1,500,000","July 2 , 2023",galle
+3,NaN,2,1,1,no,1000,"1,800,000","July 8 , 2023",Colombo
+4,2,NaN,4,5,yes,4500,"1,000,000","July 4 , 2023",jaffna
+5,3,1,NaN,4,no,1960,"2,500,000","July 9 , 2023",KANDY
+6,1,NaN,3,5,yes,3540,"2,000,000","July 11 , 2023",negombo
+7,NaN,NaN,4,6,no,4800,"2,000,000","July 15 , 2023",Jaffna
+8,2,1,1,NaN,yes,2900,"1,700,000","July 21 , 2023",colombo
+9,3,NaN,1,2,yes,1240,"3,000,000","July 18 , 2023",GaLLe
+10,NaN,1,2,3,no,3200,"2,500,000","July 17 , 2023",NEGOMBO
